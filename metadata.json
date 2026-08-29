@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Rail AI Block Planning System",
+  "description": "AI-powered automatic block planning, maintenance scheduling, corridor monitoring, and defect registration for Indian Railways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
